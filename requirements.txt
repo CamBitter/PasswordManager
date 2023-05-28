@@ -1,0 +1,4 @@
+pyperclip==1.8.1
+random_password_generator==2.2.0
+rsa==4.7.2
+
