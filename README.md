@@ -11,7 +11,8 @@
 7. Run `python3 server.py` in one window, then run `python3 client.py` in another to use the program
 
 Here's an example setup for a server hosted on localhost on port 25560, with a client connected with the GUI terminal open.
+The bottom windows show the data file which is encrypted using a Python RSA library using pub / priv key pairs.
 
 <img width="1369" alt="Screenshot 2024-10-16 at 7 03 04 PM" src="https://github.com/user-attachments/assets/d6050986-9766-497d-a919-06938417e8d7">
 
-The bottom windows show the data file which is encrypted using a Python RSA library using pub / priv key pairs.
+
